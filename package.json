@@ -1,0 +1,21 @@
+{
+  "name": "get-weather-cli",
+  "version": "1.0.8",
+  "description": "",
+  "main": "./bin/getWeather.js",
+  "bin": {
+    "weather": "./bin/getWeather.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "iconv-lite": "^0.4.13",
+    "request": "^2.74.0",
+    "xml2js": "^0.4.17",
+    "yargs": "^5.0.0"
+  }
+}
