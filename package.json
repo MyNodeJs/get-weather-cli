@@ -15,6 +15,7 @@
     "colors": "^1.1.2",
     "iconv-lite": "^0.4.13",
     "request": "^2.74.0",
+    "url-component": "^1.0.0",
     "xml2js": "^0.4.17",
     "yargs": "^5.0.0"
   }
